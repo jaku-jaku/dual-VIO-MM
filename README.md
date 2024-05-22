@@ -1,2 +1,2 @@
 # dual-VIO-MM
-[Publication Pending]
+Accepted by IEEE/ASME TMECH Focus Section 2024 
